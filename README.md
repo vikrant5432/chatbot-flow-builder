@@ -208,5 +208,3 @@ App will run on 👉 `http://localhost:5173`
 * Visual highlight of start and end nodes.
 * Add export/import of flow as JSON.
 * Integrate AI-based auto flow suggestion.
-
----
